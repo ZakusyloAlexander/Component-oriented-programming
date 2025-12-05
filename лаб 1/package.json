@@ -1,0 +1,17 @@
+{
+  "name": "lab1-matching-emojis",
+  "version": "1.0.0",
+  "description": "Лабораторна 1 — Matching Emojis (каркас гри) з запуском через npm та Vite.",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+
+
+
