@@ -1,0 +1,27 @@
+{
+  "name": "lab4-matching-emojis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лабораторна 4 — Matching Emojis з роутингом, контекстом та стилізацією через styled-components.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.3",
+    "react-router-dom": "^6.22.0",
+    "styled-components": "^6.1.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+}
+
+
+
